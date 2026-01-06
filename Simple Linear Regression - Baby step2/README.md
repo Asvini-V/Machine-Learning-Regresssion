@@ -1,6 +1,6 @@
 Simple Linear Regression – Salary Prediction
 
-This project demonstrates the implementation of Simple Linear Regression using Python and the scikit-learn library.
+This project demonstrates the implementation of Simple Linear Regression using Python.
 
 The model is trained to predict an employee’s salary based on years of experience.
 
@@ -31,7 +31,6 @@ The model is trained to predict an employee’s salary based on years of experie
         Load the saved model
 
         Predict salary for new input values (example: 13 years of experience)
-
 
 3. Output
 
